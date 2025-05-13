@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+/* Todos los elementos */
+
+@keyframes botar {
+    0%{
+        transform: translateY(-100%);
+    }
+    50%{
+        transform: translateY(0%);
+    }
+    100%{
+        transform: translateY(-100%);
+    }
+}
+/* Efecto de rebote de botar*/
+
+.navegacion{
+    background-color: brown; 
+    transform: translateY(-100%);
+    animation: botar;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+/* Clase navegacion */
+
+.menu li{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 15px;
+}
+/* Clase menu */

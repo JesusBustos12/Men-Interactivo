@@ -20,11 +20,11 @@ Sigue estos pasos para ejecutar el proyecto en tu máquina local:
 
 1. **Clona el repositorio**:
    ```bash
-   git clone https://github.com/[tu-usuario]/[nombre-del-repositorio].git
+   git clone https://github.com/JesusBustos12/Men-Interactivo
    ```
 2. **Navega al directorio del proyecto**:
    ```bash
-   cd [nombre-del-repositorio]
+   cd Men-Interactivo
    ```
 3. **Abre el archivo `index.html`**:
    - Puedes abrir el archivo `index.html` directamente en un navegador web (como Chrome o Firefox) haciendo doble clic sobre él.
@@ -58,8 +58,8 @@ Este es un proyecto personal para mi portafolio, pero estoy abierto a sugerencia
 ## Contacto
 
 Soy un estudiante en busca de mi primera oportunidad laboral en el desarrollo web. Puedes encontrarme en:
-- GitHub: [tu-usuario]
-- LinkedIn: [tu-perfil-linkedin]
-- Correo: [tu-correo]
+- GitHub: https://github.com/JesusBustos12?tab=repositories
+- LinkedIn: https://www.linkedin.com/in/jesus-bustos-arizmendi-325329283/
+- Correo: jesusbustosarizmendi0@gmail.com
 
 ¡Gracias por revisar mi proyecto!
